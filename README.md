@@ -45,7 +45,7 @@ To perform Bayesian model selection using the Deviance Information Criterion (DI
 This script fits mixture AR models for different combinations of p and component count K, and selects the best based on DIC.
 
 - Gibbs Sampling and Posterior Inference
-- 
+
 To run the full Bayesian inference and obtain posterior samples of parameters, run:
 
 **Gibbs sampling and posterior inference.R**
